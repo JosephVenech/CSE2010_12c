@@ -11,10 +11,14 @@
 
 
 */
-
+import java.io.BufferedReader;
 
 public class SmartWord
 {
+	//Added 17 November by Avery Haughwout - Added a BufferedReader for each input argument 
+	BufferedReader knownWordReader = new BufferedReader(new file(args[0]);
+	BufferedReader oldTextReader = new BufferedReader(new file(args[1]);
+	BufferedReader newTextReader = new BufferedReader(new file(args[2]);
     String[] guesses = new String[3];  // 3 guesses from SmartWord
 
     // initialize SmartWord with a file of English words
