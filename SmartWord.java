@@ -1,11 +1,11 @@
 /*
 
-  Authors (group members):
+  Authors (group members): Joseph Venech, Avery Haughwout, Christopher Blackwell
   Email addresses of group members:
-  Group name:
+  Group name: 12C (Maybe make it smth cool later idk)
 
-  Course:
-  Section:
+  Course: CSE 2010
+  Section:3:30
 
   Description of the overall algorithm:
 
